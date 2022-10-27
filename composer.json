@@ -1,0 +1,17 @@
+{
+    "name": "mahmud/woo-solutions",
+    "description": "Woocommerce Solutions Plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [{
+        "name": "Mahmud Haisan"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WpVue\\Starter\\": "includes/"
+        },
+        "files": []
+    }
+}
